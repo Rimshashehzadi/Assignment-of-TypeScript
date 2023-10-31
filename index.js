@@ -1,3 +1,5 @@
 "use strict";
-//Install Node.js, TypeScript and VS Code on your computer.
-console.log("Hello World");
+let pname = "Eric";
+let message = `"Hello ${pname} , would you like to learn some Python today?”`;
+//console.log(`Hello ${pname} , would you like to learn some Python today?”`)
+console.log(message);
